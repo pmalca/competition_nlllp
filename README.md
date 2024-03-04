@@ -1,4 +1,4 @@
-# competition_nlp Project
+# competition_nlp project
 
 ## Overview
 
